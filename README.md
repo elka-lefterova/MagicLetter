@@ -1,7 +1,7 @@
 # MagicLetter
 Repo made for exercise
 
-
+new changes done for testing github resolving conflicts
 changes done 
 edited with gitbash
 
