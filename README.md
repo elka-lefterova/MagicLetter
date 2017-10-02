@@ -1,3 +1,6 @@
+changes via develop2branch
+
+
 # MagicLetter
 Repo made for exercise
 
