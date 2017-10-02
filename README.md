@@ -1,9 +1,12 @@
 
+
 changes blaaaaaaaaaaaaa
 
 changes via develop2branch
 
 develop2
+
+samoe changes vie websote new branch
 
 # MagicLetter
 Repo made for exercise
